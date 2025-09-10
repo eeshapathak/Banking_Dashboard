@@ -40,12 +40,9 @@ The project demonstrates my ability to handle the full data pipeline – from **
 - Excel dataset (`.xlsx`)  
 - Canva presentation (`foldertype`)  
 ----------------------------------------------------------------------------------------------------------------------
-**This project highlights my ability to manage the complete data cycle – from raw data to business insights.**
-----------------------------------------------------------------------------------------------------------------------
 ## ⚠️ Important Note
 For security reasons, database credentials (username & password) are not included in this repository.  
 Please replace the placeholders (`YOUR_USERNAME`, `YOUR_PASSWORD`) with your own MySQL credentials before running the project on your local system.
-
 
 📊 **This project highlights my ability to manage the complete data cycle – from raw data to business insights.**
 
